@@ -1,4 +1,4 @@
-# DLA2022_MatchSafeGraph
+# Match SafeGraph POI data with Cultural Resource Places in Washington DC
 
 Match SafeGraph POIs with Data collected through a cultural resource survey in
 Washington DC.
